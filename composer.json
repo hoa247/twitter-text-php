@@ -1,0 +1,14 @@
+{
+    "name": "hoa247/twitter-text-php",
+    "description": "This an unofficial port of the twitter-text-js (https://github.com/twitter/twitter-text-js) library. For maintainability the structure of the code is as close to the js-library as possible. develop: https://github.com/oemebamo/twitter-text-php",
+    "keywords": ["twitter", "laravel", "laravel4", "laravel5"],
+    "authors": [
+        {
+            "name": "hoa247",
+            "email": "trandinhhoa.tc@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+    },
+}
